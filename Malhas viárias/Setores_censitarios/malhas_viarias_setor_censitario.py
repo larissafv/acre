@@ -7,9 +7,9 @@ censiBR.plot()
 
 # regiões censitárias em Minas Gerais
 censiMG = read_census_tract(code_tract='MG', year=2010)
-censiMG.plot()
+censiMG.plot(linewidth=0.3, edgecolor='black')
 
 # regiões censitárias de BH
 censiBH = read_census_tract(code_tract=3106200, year=2010)
-censiBH.plot()
+censiBH.plot(linewidth=0.3, edgecolor='black')
 plt.show()
