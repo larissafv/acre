@@ -1,0 +1,1 @@
+Pelo seu tamanho, a shapefile de Minas Gerais de 2010 tem que ser baixada no seguinte link: ftp://geoftp.ibge.gov.br/organizacao_do_territorio/malhas_territoriais/malhas_municipais/municipio_2010/mg/mg_municipios.zip
