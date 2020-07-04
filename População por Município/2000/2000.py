@@ -1,3 +1,6 @@
+
+#Para imprimir tabela ou plotar mapa, tirar comentário de um dos últimos dois comandos
+
 import pandas as pd
 import geopandas as gpd
 import matplotlib
